@@ -1,0 +1,13 @@
+Drug,Property,Predictor_TI,h_star_threshold,Leverage,Std_Residual,Within_Leverage,Within_Residual,Within_AD,Model_valid
+Bunamidine,BoilingPoint,ISI,0.35294117647058826,0.06473256766854368,-0.36476310109157806,True,True,True,True
+Oxyclozanide,BoilingPoint,ISI,0.35294117647058826,0.07621181241018957,-0.2587384703283996,True,True,True,True
+Bunamidine,EnthalpyOfVaporization,M2,0.35294117647058826,0.06788933058451785,-0.9257846313208427,True,True,True,True
+Oxyclozanide,EnthalpyOfVaporization,M2,0.35294117647058826,0.0731068602016894,-0.7402892306636546,True,True,True,True
+Bunamidine,FlashPoint,SDD,0.35294117647058826,0.06618904610025511,0.11678031567192278,True,True,True,False
+Oxyclozanide,FlashPoint,SDD,0.35294117647058826,0.06994095011137184,-0.10916573723219274,True,True,True,False
+Bunamidine,MolarRefractivity,SDD,0.24,0.04176159321599744,2.5897178253685835,True,True,True,True
+Oxyclozanide,MolarRefractivity,SDD,0.24,0.043673748907087966,-0.5739823718473228,True,True,True,True
+Bunamidine,Polarizability,SDD,0.24,0.04176159321599744,2.580556193437095,True,True,True,True
+Oxyclozanide,Polarizability,SDD,0.24,0.043673748907087966,-0.5817790663719018,True,True,True,True
+Bunamidine,MolarVolume,Randic,0.24,0.04000434439732987,2.5676531576825394,True,True,True,True
+Oxyclozanide,MolarVolume,Randic,0.24,0.048011673071781835,-0.3075244983132459,True,True,True,True
