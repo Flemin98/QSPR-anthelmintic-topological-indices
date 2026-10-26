@@ -1,6 +1,6 @@
 
 QSPR ANTHELMINTIC DRUGS -- RESULTS SUMMARY
-Generated: 2026-04-26 04:16:26
+Generated: 2026-10-26 04:16:26
 Training set: 25 drugs; external: Bunamidine, Oxyclozanide
 
 === SLR (baseline), best index per property ===
