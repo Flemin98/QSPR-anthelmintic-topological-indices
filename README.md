@@ -26,8 +26,12 @@ cross-validation. Two compounds (Bunamidine, Oxyclozanide) serve as an external 
 
 ## Data provenance
 - Structures: PubChem connectivity SMILES (CIDs listed in Cell 2 and in `data/topological_indices_25drugs.csv`, with retrieval date).
-- Properties: ACD/Labs Percepta **predicted** values as displayed on ChemSpider (retrieved <date>); they are not experimental measurements.
+- Properties: ACD/Labs Percepta **predicted** values as displayed on ChemSpider (retrieved March 2026); they are not experimental measurements.
   Eight drugs have no boiling point, enthalpy of vaporization or flash point in the source, so n = 17 for those three properties and n = 25 for the others.
+**Timeline.** Property values (ACD/Labs predictions on ChemSpider) were retrieved in March 2026 and the
+original analysis was completed in April 2026. For this repository the full pipeline was re-run in
+October 2026 (structures re-fetched from PubChem; all tables reproduced the values in the paper).
+File timestamps and the "Generated" lines in `results/` therefore show the October run.
 
 ## Mapping to the paper
 | Paper | File |
