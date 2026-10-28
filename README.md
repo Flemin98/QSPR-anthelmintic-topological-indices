@@ -28,7 +28,7 @@ cross-validation. Two compounds (Bunamidine, Oxyclozanide) serve as an external 
 - Properties: ACD/Labs Percepta **predicted** values as displayed on ChemSpider (retrieved March 2026); they are not experimental measurements.
   Eight drugs have no boiling point, enthalpy of vaporization or flash point in the source, so n = 17 for those three properties and n = 25 for the others.
 
-**Timeline.** Property values were retrieved in March 2026 and the original analysis was completed in April 2026.
+**Timeline.** Property values were retrieved in March 2026 and the original analysis was completed in June 2026.
 For this repository the full pipeline was re-run in October 2026 (structures re-fetched from PubChem); the original
 numerical results were reproduced. File timestamps and the "Generated" lines in `results/` therefore show the October run.
 
